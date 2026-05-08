@@ -1,0 +1,1 @@
+<input {{ $attributes->class('focus-ring h-9 w-full min-w-0 rounded-lg border border-gray-200 bg-white px-3 text-[14px] text-gray-900 placeholder:text-gray-400 hover:border-gray-300 transition-colors') }}>
