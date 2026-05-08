@@ -2,8 +2,6 @@
 
 Readable Laravel monolith starter for full backend + frontend applications using Blade and Tailwind CSS.
 
-The goal is the same as the Go, React, React PWA, and Flutter starters in this workspace: open the folder and immediately know what belongs where.
-
 ## Stack
 
 - Laravel 13
